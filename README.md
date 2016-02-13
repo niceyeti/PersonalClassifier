@@ -7,3 +7,5 @@ its really just the similarity metrics that are being demo'ed.
 -TODO: add Enron resource data
 -improve metrics
 -more experiments to determine useful projections of similarity data
+
+All work in this repo is copyright Jesse Waite, 2014, 2015, 2016
